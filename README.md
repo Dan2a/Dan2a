@@ -9,10 +9,10 @@
 
 <div style="display: flex;">
   <a href="https://github.com/Dan2a">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dan2a&show_icons=true&theme=dark" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dan2a&show_icons=true&theme=dark" style="width: 49%;" />
   </a>
   <a href="https://github.com/Dan2a">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan2a&layout=compact&langs_count=7&theme=dark" style="width: 49%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan2a&layout=compact&langs_count=7&theme=dark" style="width: 37%;" />
   </a>
 </div>
 
